@@ -1,0 +1,20 @@
+{
+  "name": "ofsted_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^1.12.0",
+    "event-stream": "^3.3.4",
+    "fs": "0.0.1-security",
+    "moment": "^2.19.2",
+    "mongodb": "^2.2.33",
+    "stream-filter": "^2.1.0",
+    "through2-filter": "^2.0.0"
+  }
+}
